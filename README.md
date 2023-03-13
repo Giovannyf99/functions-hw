@@ -72,4 +72,13 @@ only_evens([11, 20, 42, 97, 23, 10])
 
 Write a function `smallest` that accepts an Array of numbers as an argument.  It should return the smallest number in the Array.
 
+## Find the shortest string
+
+Write a function `shortest` that accepts an Array of strings as an argument.  It should return the *shortest* string in the Array.
+
+## Find the longest string
+
+Write a function `longest` that accepts an Array of strings as an argument.  It should return the *longest* string in the Array.
+
+
 
