@@ -1,0 +1,6 @@
+/ let onlyEvens = [11, 20, 42, 97, 23, 10]
+ let numbers = onlyEvens.forEach(number => {
+    if(number % 2 === 0){
+        console.log(number)
+    }
+})

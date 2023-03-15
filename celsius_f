@@ -1,0 +1,6 @@
+function convertC(celsius) {
+     let temp = 20
+     let fahrenheit = temp * 9/5 + 32;
+     console.log(fahrenheit)
+     return fahrenheit;
+}
